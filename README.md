@@ -1,6 +1,6 @@
 - 👋 Hi, I’m zahra
 - 👀 I’m interested in learning Artificial Inteligence
-- 🌱 I’m currently learning pythin_ML
+- 🌱 I’m currently learning python_ML
 
 <!---
 9630613/9630613 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
